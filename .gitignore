@@ -1,0 +1,11 @@
+# MonoDevelop files
+*.userprefs
+
+
+# Binaries
+**/bin/
+**/obj/
+*.dll
+*.netmodule
+*.resources
+
